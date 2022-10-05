@@ -1,1 +1,5 @@
-/home/matheus/Documentos/Kenzie/M4/Atividades/Api com postgre/.env.exemple
+DB_USER=
+DB_PASSWORD=
+DB_HOST=
+DB=
+DB_PORT=
