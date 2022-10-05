@@ -1,5 +1,5 @@
 OBS: Iniciar o servidor antes de testar a api com o comando: "YARN DEV"
-OBS2: Ter a certeza que a api esta conectada a um banco de dados POSTGRESQL
+OBS2: Ter a certeza que a api esta conectada a um banco de dados POSTGRESQL. Nao esqueca de configurar um arquivo .env para fazer a conexao // criar no banco de dados tabela com nome de "users"
 
 **ROTAS QUE NAO PRECISAM DE AUTENTICACAO**
 
